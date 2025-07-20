@@ -8,7 +8,7 @@ I specialize in building immersive, intelligent, and impactful software across d
 ## 🚀 About Me
 
 - 👨‍💻 Currently working on AI-driven autonomous agents & XR simulators
-- 🧠 17+ Projects | 10+ Hackathon Wins | ₹27L+ in Grants & Govt Collabs  
+- 🧠 30+ Projects | 10+ Hackathon Wins | Grants & Govt Collabs  
 - 🥉 Winner – Global M-Gov Awards (UAE GovTech)  
 - 🏆 Smart India Hackathon 2023 – National Winner  
 - 🔗 Co-Founder @ XR-VERSE | Building the future of immersive tech
@@ -86,7 +86,6 @@ I specialize in building immersive, intelligent, and impactful software across d
 
 - 🌐 [LinkedIn](https://linkedin.com/in/mishra-abhinav05)  
 - ✉️ itsabhinav2005@gmail.com  
-- 📁 [My Portfolio](https://drive.google.com/drive/folders/1gCkYDWYBYq8QW7jtE9i6SYmx2R4H1Drj)
 
 ---
 
