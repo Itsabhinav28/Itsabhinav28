@@ -1,17 +1,88 @@
-# 👋 Welcome to My GitHub Profile!
-
-Hi there! I'm **Abhinav Mishra**, a passionate full-stack & XR developer, AI tinkerer, and open-source contributor.  
-I specialize in building immersive, intelligent, and impactful software across domains like **Metaverse, EdTech, DeFi**, and **AI-driven productivity tools**.
+<div align="center">
+  <h1 align="center">
+    <img src="https://readme-typing-svg.vercel.app/?lines=Hey,+I'm+Abhinav!;Welcome+to+my+GitHub+Profile!;Passionate+Full-Stack+%26+XR+Developer;AI+Tinkerer+%26+Open-Source+Contributor&center=true&size=35&width=700&height=60&color=00d4aa&vCenter=true&font=Inter&weight=600&pause=2000&duration=3000&random=false&multiline=true">
+  </h1>
+</div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
+  <p align="center">
+    I specialize in building <strong>immersive, intelligent, and impactful software</strong> across domains like<br/>
+    <strong>Metaverse</strong> • <strong>EdTech</strong> • <strong>DeFi</strong> • <strong>AI-driven productivity tools</strong>
+  </p>
+</div>
 
-- 👨‍💻 Currently working on AI-driven autonomous agents & XR simulators
-- 🧠 30+ Projects | 10+ Hackathon Wins | Grants & Govt Collabs  
-- 🥉 Winner – Global M-Gov Awards (UAE GovTech)  
-- 🏆 Smart India Hackathon 2023 – National Winner  
-- 🔗 Co-Founder @ XR-VERSE | Building the future of immersive tech
+---
+
+<div align="center">
+  <h2 align="center">🚀 About Me</h2>
+  
+  <table align="center">
+    <tr>
+      <td align="center" width="50%">
+        <strong>👨‍💻 Current Focus</strong><br/>
+        <span style="font-size: 14px;">AI-driven autonomous agents & XR simulators</span>
+      </td>
+      <td align="center" width="50%">
+        <strong>🧠 Achievements</strong><br/>
+        <span style="font-size: 14px;">30+ Projects | 10+ Hackathon Wins</span>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <strong>🏆 Smart India Hackathon 2023</strong><br/>
+        <span style="font-size: 14px; color: #00d4aa;">National Winner</span>
+      </td>
+      <td align="center" width="50%">
+        <strong>🥉 Global M-Gov Awards</strong><br/>
+        <span style="font-size: 14px; color: #00d4aa;">UAE GovTech Winner</span>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <strong>🔗 Co-Founder @ XR-VERSE</strong><br/>
+        <span style="font-size: 14px;">Building the future of immersive tech</span>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📊 GitHub Stats & Contributions
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Itsabhinav28&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itsabhinav28&theme=radical"/>
+</p>
+
+### 📅 My Yearly Contributions
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Itsabhinav28&theme=react-dark&hide_border=true&area=true&area_color=00d4aa&line=00d4aa&point=ffffff&color_scheme=dark&custom_title=Abhinav%20Mishra%27s%20Contribution%20Graph&animate=true&animation_duration=3000" alt="Contribution Graph" />
+</div>
+
+### 🎯 Contribution Highlights
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <strong>🔥 Best Streak</strong><br/>
+        <span style="font-size: 24px;">33 Days</span>
+      </td>
+      <td align="center">
+        <strong>⚡ Highest in a Day</strong><br/>
+        <span style="font-size: 24px;">65 Commits</span>
+      </td>
+      <td align="center">
+        <strong>📈 Daily Average</strong><br/>
+        <span style="font-size: 24px;">~2.68</span>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -64,29 +135,102 @@ I specialize in building immersive, intelligent, and impactful software across d
 
 ## 📌 Highlighted Projects
 
-- 🎮 **[Sangrakhshan](https://github.com/SagarTeotia1/NDRF-DEMO-SANGRAKSHAN)** – VR-based disaster response simulator, adopted by NDRF  
-- 🌐 **[CRYPTXCHANGE](https://github.com/Itsabhinav28/CRYPTXCHANGE)** – DeFi exchange with AI fraud detection & gamified learning  
-- 👁️‍🗨️ **[AccessWay](https://github.com/SagarTeotia1/acessway)** – AR platform for disabled navigation, honored at UAE GovTech  
-- 🛒 **[WooCommerce ONDC Adaptor](https://github.com/Itsabhinav28/woocommerce-adaptor)** – Full-stack ONDC e-commerce integration  
-- 🧘 **[Herbal-Reet](https://github.com/Itsabhinav28/Herbal-Reet)** – Metaverse + AI botany + Yoga tracker with AR  
-- 🧠 **[EnviroBot](https://github.com/Itsabhinav28/Enviro-Bot)** – Sustainability chatbot using TensorFlow and GPT-3
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🎮 Sangrakhshan</h3>
+        <p align="center">
+          <a href="https://github.com/SagarTeotia1/NDRF-DEMO-SANGRAKSHAN" target="_blank">
+            <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+          </a>
+        </p>
+        <p align="center">VR-based disaster response simulator, adopted by NDRF</p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🌐 CRYPTXCHANGE</h3>
+        <p align="center">
+          <a href="https://github.com/Itsabhinav28/CRYPTXCHANGE" target="_blank">
+            <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+          </a>
+        </p>
+        <p align="center">DeFi exchange with AI fraud detection & gamified learning</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">👁️‍🗨️ AccessWay</h3>
+        <p align="center">
+          <a href="https://github.com/SagarTeotia1/acessway" target="_blank">
+            <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+          </a>
+        </p>
+        <p align="center">AR platform for disabled navigation, honored at UAE GovTech</p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🛒 WooCommerce ONDC Adaptor</h3>
+        <p align="center">
+          <a href="https://github.com/Itsabhinav28/woocommerce-adaptor" target="_blank">
+            <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+          </a>
+        </p>
+        <p align="center">Full-stack ONDC e-commerce integration</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🧘 Herbal-Reet</h3>
+        <p align="center">
+          <a href="https://github.com/Itsabhinav28/Herbal-Reet" target="_blank">
+            <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+          </a>
+        </p>
+        <p align="center">Metaverse + AI botany + Yoga tracker with AR</p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🧠 EnviroBot</h3>
+        <p align="center">
+          <a href="https://github.com/Itsabhinav28/Enviro-Bot" target="_blank">
+            <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+          </a>
+        </p>
+        <p align="center">Sustainability chatbot using TensorFlow and GPT-3</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Achievements & Recognition
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Itsabhinav28&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itsabhinav28&theme=radical"/>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/🏆%20Smart%20India%20Hackathon%202023%20-%20National%20Winner-blue?style=for-the-badge" alt="Smart India Hackathon Winner"/>
+  <img src="https://img.shields.io/badge/UAE%20GovTech%20Awards-Winner-green?style=for-the-badge" alt="UAE GovTech Awards"/>
+  <img src="https://img.shields.io/badge/🚀%2010+%20Hackathon%20Wins-orange?style=for-the-badge" alt="Hackathon Wins"/>
+  <img src="https://img.shields.io/badge/💡%2030+%20Projects%20Built-purple?style=for-the-badge" alt="Projects Built"/>
+</div>
 
 ---
 
 ## 📫 Let's Connect
 
-- 🌐 [LinkedIn](https://linkedin.com/in/mishra-abhinav05)  
-- ✉️ itsabhinav2005@gmail.com  
+<div align="center">
+  <a href="https://linkedin.com/in/mishra-abhinav05" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:itsabhinav2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Itsabhinav28" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
 
 ---
 
-> *“Code is the language of ideas. Let's build better realities — virtually and beyond.”*
+
+> *"Code is the language of ideas. Let's build better realities — virtually and beyond."* 🚀
+
+
+
